@@ -18,9 +18,10 @@
 
 -- print(mensagem)
 
-local chat = "esse mapa eh muito feio"
+-- local chat = "esse mapa eh muito feio"
 
-local texto_limpo, quantidade_trocas = string.gsub(chat, "feio", "desafiador")
+-- local texto_limpo, quantidade_trocas = string.gsub(chat, "feio", "desafiador")
 
-print(texto_limpo)
-print(quantidade_trocas)
+-- print(texto_limpo)
+-- print(quantidade_trocas)
+
